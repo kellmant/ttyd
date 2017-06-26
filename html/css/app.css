@@ -16,7 +16,7 @@ html, body {
 .terminal {
     background-color: #101010;
     color: #f0f0f0;
-    font-size: 14pt;
+    font-size: 12pt;
     font-family: Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",Courier,monospace;
     font-variant-ligatures: none;
     -moz-osx-font-smoothing: grayscale;
